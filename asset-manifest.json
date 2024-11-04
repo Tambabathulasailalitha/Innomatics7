@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Innomatics7/static/css/main.8130ed62.css",
+    "main.js": "/Innomatics7/static/js/main.f4598848.js",
+    "static/js/354.d81570fd.chunk.js": "/Innomatics7/static/js/354.d81570fd.chunk.js",
+    "static/js/197.e8fc661a.chunk.js": "/Innomatics7/static/js/197.e8fc661a.chunk.js",
+    "static/js/870.9c469de8.chunk.js": "/Innomatics7/static/js/870.9c469de8.chunk.js",
+    "static/media/Walking Girl.mp4": "/Innomatics7/static/media/Walking Girl.3e396b6d837d0a1e8fb6.mp4",
+    "static/media/10.webp": "/Innomatics7/static/media/10.9d55ebaf49e2a1566285.webp",
+    "static/media/11.webp": "/Innomatics7/static/media/11.e32866d809309bfd5ae2.webp",
+    "static/media/14.webp": "/Innomatics7/static/media/14.353d062ffd6151d94a06.webp",
+    "static/media/4.webp": "/Innomatics7/static/media/4.de6233805d060fa97921.webp",
+    "static/media/2.webp": "/Innomatics7/static/media/2.574104ad442c095a5bbe.webp",
+    "static/media/12.webp": "/Innomatics7/static/media/12.7f6d60ec7261eb21a07c.webp",
+    "static/media/6.webp": "/Innomatics7/static/media/6.4c1d4b9f18cf30ffbb05.webp",
+    "static/media/13.webp": "/Innomatics7/static/media/13.c41b47d2fe93d0ce16c4.webp",
+    "static/media/5.webp": "/Innomatics7/static/media/5.85cb009545eed102084c.webp",
+    "static/media/3.webp": "/Innomatics7/static/media/3.72b96ccc924a0b0d614d.webp",
+    "static/media/7.webp": "/Innomatics7/static/media/7.cf43e4b0061d50fd7eb0.webp",
+    "static/media/1.webp": "/Innomatics7/static/media/1.378e463bfefafe30c0cb.webp",
+    "static/media/9.webp": "/Innomatics7/static/media/9.37a06fbc71748d3b98fd.webp",
+    "static/media/8.webp": "/Innomatics7/static/media/8.1823cf7361aca9c5ed08.webp",
+    "static/media/kaushan-script-latin-400-normal.woff2": "/Innomatics7/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
+    "static/media/sirin-stencil-latin-400-normal.woff2": "/Innomatics7/static/media/sirin-stencil-latin-400-normal.f668f96beabdc683277b.woff2",
+    "static/media/kaushan-script-latin-400-normal.woff": "/Innomatics7/static/media/kaushan-script-latin-400-normal.3d9eea0f7ff318a0f05a.woff",
+    "static/media/kaushan-script-latin-ext-400-normal.woff2": "/Innomatics7/static/media/kaushan-script-latin-ext-400-normal.40ab2bd31ec71948facf.woff2",
+    "static/media/sirin-stencil-latin-400-normal.woff": "/Innomatics7/static/media/sirin-stencil-latin-400-normal.6b4d0f595c795f85ddb2.woff",
+    "static/media/kaushan-script-latin-ext-400-normal.woff": "/Innomatics7/static/media/kaushan-script-latin-ext-400-normal.3d593f2f1cf5cb6b9c80.woff",
+    "index.html": "/Innomatics7/index.html",
+    "static/media/star_white_48dp.svg": "/Innomatics7/static/media/star_white_48dp.808b259deb685769240560a11e239a7f.svg",
+    "main.8130ed62.css.map": "/Innomatics7/static/css/main.8130ed62.css.map",
+    "main.f4598848.js.map": "/Innomatics7/static/js/main.f4598848.js.map",
+    "354.d81570fd.chunk.js.map": "/Innomatics7/static/js/354.d81570fd.chunk.js.map",
+    "197.e8fc661a.chunk.js.map": "/Innomatics7/static/js/197.e8fc661a.chunk.js.map",
+    "870.9c469de8.chunk.js.map": "/Innomatics7/static/js/870.9c469de8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8130ed62.css",
+    "static/js/main.f4598848.js"
+  ]
+}
